@@ -1,7 +1,7 @@
 package com.ripon.DefaultMethodInInterface;
 
 public interface DemoInterface {
-
+ 
 	public void m1();
 	
 	public void m2();
